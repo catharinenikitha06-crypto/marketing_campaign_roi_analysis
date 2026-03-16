@@ -39,3 +39,8 @@ Helps marketing teams make data-driven decisions and optimize campaign spending.
 
 ### Python KPI Calculation
 ![Python Output](python_roi_output.png)
+
+### table
+![table](table.png)
+
+
