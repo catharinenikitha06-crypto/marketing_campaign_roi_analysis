@@ -27,4 +27,15 @@ Data was processed using Python to calculate performance metrics and trends. An 
 Helps marketing teams make data-driven decisions and optimize campaign spending.
 
 ## Dashboard Preview
-(See screenshots above)
+
+### Full Dashboard
+![Dashboard](dashboard.png.png)
+
+### Revenue vs Cost Analysis
+![Revenue vs Cost](revenue_cost.png)
+
+### ROI Performance
+![ROI](roi_chart.png)
+
+### Python KPI Calculation
+![Python Output](python_roi_output.png)
